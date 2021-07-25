@@ -1,2 +1,2 @@
 # solydkee-info
-Info package intended for the SolydXK Enthusiast's Editions
+Info package intended for the SolydK Enthusiast's Editions

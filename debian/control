@@ -10,5 +10,5 @@ Architecture: all
 Depends: ${misc:Depends}, 
   solydk-system-adjustments-11
 Description: Info package for SolydK EE
- Package intended for the SolydXK Enthusiast's Editions
+ Package intended for the SolydK Enthusiast's Editions
 
