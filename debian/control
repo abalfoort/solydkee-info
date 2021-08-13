@@ -1,14 +1,14 @@
 Source: solydkee-info
 Section: admin
 Priority: optional
-Maintainer: Arjen Balfoort <arjenbalfoort@solydxk.com>
+Maintainer: Arjen Balfoort <arjenbalfoort@hotmail.com>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.5.0
 
 Package: solydkee-info
 Architecture: all
 Depends: ${misc:Depends}, 
-  solydk-system-adjustments-11
+  solydk-system-adjustments-12
 Description: Info package for SolydK EE
  Package intended for the SolydK Enthusiast's Editions
 
