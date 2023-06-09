@@ -1,3 +1,9 @@
+solydkee-info (1.1.2) testing; urgency=low
+
+  * Depends on solydk-system-adjustments-13
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Fri, 09 Jun 2023 16:05:50 +0200
+
 solydkee-info (1.1.1) testing; urgency=low
 
   * Check if info file exists in postrm
